@@ -8,7 +8,7 @@
 
 ## Processing Sketches
 
-- [Work 1](127.0.0.1:5500/sketches/1/)
+- [Work 1](sketches/1/)
 <iframe src=""
-style="width=60%></iframe>
+style="width=60%"></iframe>
 - Work 2
